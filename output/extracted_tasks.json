@@ -1,0 +1,2452 @@
+[
+  {
+    "item_id": "ITEM_MSG_0002",
+    "type": "task",
+    "title": "Can you review the privacy checklist bef...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0002"
+  },
+  {
+    "item_id": "ITEM_MSG_0010",
+    "type": "task",
+    "title": "Can you help? Don't forget to pay the el...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0010"
+  },
+  {
+    "item_id": "ITEM_MSG_0011",
+    "type": "event",
+    "title": "Just checking\u2014Please join the internship...",
+    "deadline": "2026-09-18",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0011"
+  },
+  {
+    "item_id": "ITEM_MSG_0012",
+    "type": "task",
+    "title": "FYI: I will send the login details separ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0012"
+  },
+  {
+    "item_id": "ITEM_MSG_0019",
+    "type": "task",
+    "title": "Can you help? I need you to review the m...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0019"
+  },
+  {
+    "item_id": "ITEM_MSG_0021",
+    "type": "event",
+    "title": "One more thing: The webinar recording is...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0021"
+  },
+  {
+    "item_id": "ITEM_MSG_0024",
+    "type": "event",
+    "title": "Just checking\u2014I might prefer evening mee...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0024"
+  },
+  {
+    "item_id": "ITEM_MSG_0028",
+    "type": "task",
+    "title": "For today: Don't forget to email the sig...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0028"
+  },
+  {
+    "item_id": "ITEM_MSG_0032",
+    "type": "task",
+    "title": "Important: Don't forget to upload the as...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0032"
+  },
+  {
+    "item_id": "ITEM_MSG_0034",
+    "type": "event",
+    "title": "Please note: Please join the internship ...",
+    "deadline": "2026-09-18",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0034"
+  },
+  {
+    "item_id": "ITEM_MSG_0035",
+    "type": "task",
+    "title": "For today: Complete the onboarding form ...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0035"
+  },
+  {
+    "item_id": "ITEM_MSG_0037",
+    "type": "task",
+    "title": "One more thing: The review could be Frid...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0037"
+  },
+  {
+    "item_id": "ITEM_MSG_0041",
+    "type": "event",
+    "title": "For today: If possible, review the file ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0041"
+  },
+  {
+    "item_id": "ITEM_MSG_0042",
+    "type": "event",
+    "title": "For today: The client discussion is sche...",
+    "deadline": "2026-09-12",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0042"
+  },
+  {
+    "item_id": "ITEM_MSG_0044",
+    "type": "task",
+    "title": "Just checking\u2014Please complete the Python...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0044"
+  },
+  {
+    "item_id": "ITEM_MSG_0045",
+    "type": "task",
+    "title": "Important: Complete the onboarding form ...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0045"
+  },
+  {
+    "item_id": "ITEM_MSG_0046",
+    "type": "event",
+    "title": "For today: Don't forget to call the serv...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0046"
+  },
+  {
+    "item_id": "ITEM_MSG_0050",
+    "type": "event",
+    "title": "Important: The webinar recording is now ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0050"
+  },
+  {
+    "item_id": "ITEM_MSG_0054",
+    "type": "task",
+    "title": "Just checking\u2014The review could be Friday...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0054"
+  },
+  {
+    "item_id": "ITEM_MSG_0056",
+    "type": "event",
+    "title": "Please note: Please call Maya when you a...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0056"
+  },
+  {
+    "item_id": "ITEM_MSG_0057",
+    "type": "task",
+    "title": "Please note: I will send the login detai...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0057"
+  },
+  {
+    "item_id": "ITEM_MSG_0058",
+    "type": "task",
+    "title": "Quick update: Can you review the privacy...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0058"
+  },
+  {
+    "item_id": "ITEM_MSG_0060",
+    "type": "task",
+    "title": "Quick update: Complete the onboarding fo...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0060"
+  },
+  {
+    "item_id": "ITEM_MSG_0062",
+    "type": "event",
+    "title": "Please join the AI workshop on 2026-09-0...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0062"
+  },
+  {
+    "item_id": "ITEM_MSG_0065",
+    "type": "task",
+    "title": "One more thing: Don't forget to email th...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0065"
+  },
+  {
+    "item_id": "ITEM_MSG_0066",
+    "type": "event",
+    "title": "Can you help? The project review is sche...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0066"
+  },
+  {
+    "item_id": "ITEM_MSG_0084",
+    "type": "event",
+    "title": "Hi, I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0084"
+  },
+  {
+    "item_id": "ITEM_MSG_0089",
+    "type": "event",
+    "title": "Just checking\u2014Don't forget to call the s...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0089"
+  },
+  {
+    "item_id": "ITEM_MSG_0098",
+    "type": "task",
+    "title": "Quick update: The review could be Friday...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0098"
+  },
+  {
+    "item_id": "ITEM_MSG_0101",
+    "type": "task",
+    "title": "Don't forget to email the signed documen...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0101"
+  },
+  {
+    "item_id": "ITEM_MSG_0102",
+    "type": "task",
+    "title": "FYI: Can you send the revised presentati...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0102"
+  },
+  {
+    "item_id": "ITEM_MSG_0110",
+    "type": "event",
+    "title": "FYI: If possible, review the file before...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0110"
+  },
+  {
+    "item_id": "ITEM_MSG_0111",
+    "type": "task",
+    "title": "FYI: I need you to review the model resu...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0111"
+  },
+  {
+    "item_id": "ITEM_MSG_0112",
+    "type": "task",
+    "title": "Just checking\u2014Can you send the revised p...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0112"
+  },
+  {
+    "item_id": "ITEM_MSG_0114",
+    "type": "task",
+    "title": "Please complete the Python exercise by 2...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0114"
+  },
+  {
+    "item_id": "ITEM_MSG_0115",
+    "type": "event",
+    "title": "Quick update: Don't forget to call the s...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0115"
+  },
+  {
+    "item_id": "ITEM_MSG_0119",
+    "type": "task",
+    "title": "Can you help? Send the expense receipt i...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0119"
+  },
+  {
+    "item_id": "ITEM_MSG_0121",
+    "type": "event",
+    "title": "Hi, Please call Maya when you are free.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0121"
+  },
+  {
+    "item_id": "ITEM_MSG_0131",
+    "type": "task",
+    "title": "One more thing: The project review is sc...",
+    "deadline": "2026-09-17",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0131"
+  },
+  {
+    "item_id": "ITEM_MSG_0144",
+    "type": "event",
+    "title": "Please note: Don't forget to call the se...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0144"
+  },
+  {
+    "item_id": "ITEM_MSG_0145",
+    "type": "task",
+    "title": "FYI: Please complete the Python exercise...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0145"
+  },
+  {
+    "item_id": "ITEM_MSG_0148",
+    "type": "task",
+    "title": "Can you help? I will send the login deta...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0148"
+  },
+  {
+    "item_id": "ITEM_MSG_0150",
+    "type": "event",
+    "title": "One more thing: Don't forget to call the...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0150"
+  },
+  {
+    "item_id": "ITEM_MSG_0151",
+    "type": "task",
+    "title": "FYI: The project review is scheduled for...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0151"
+  },
+  {
+    "item_id": "ITEM_MSG_0159",
+    "type": "event",
+    "title": "Hi, The webinar recording is now availab...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0159"
+  },
+  {
+    "item_id": "ITEM_MSG_0160",
+    "type": "task",
+    "title": "Important: Please submit the weekly repo...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0160"
+  },
+  {
+    "item_id": "ITEM_MSG_0163",
+    "type": "event",
+    "title": "FYI: Don't forget to call the service ce...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0163"
+  },
+  {
+    "item_id": "ITEM_MSG_0168",
+    "type": "event",
+    "title": "Hi, Please join the AI workshop on 2026-...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0168"
+  },
+  {
+    "item_id": "ITEM_MSG_0170",
+    "type": "event",
+    "title": "FYI: Share the meeting notes is due on 2...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0170"
+  },
+  {
+    "item_id": "ITEM_MSG_0173",
+    "type": "task",
+    "title": "One more thing: I need you to review the...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0173"
+  },
+  {
+    "item_id": "ITEM_MSG_0175",
+    "type": "task",
+    "title": "Just checking\u2014I need you to review the m...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0175"
+  },
+  {
+    "item_id": "ITEM_MSG_0189",
+    "type": "event",
+    "title": "FYI: I might prefer evening meetings now...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0189"
+  },
+  {
+    "item_id": "ITEM_MSG_0190",
+    "type": "event",
+    "title": "If possible, review the file before the ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0190"
+  },
+  {
+    "item_id": "ITEM_MSG_0193",
+    "type": "event",
+    "title": "Please call Maya when you are free.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0193"
+  },
+  {
+    "item_id": "ITEM_MSG_0198",
+    "type": "event",
+    "title": "Hi, If possible, review the file before ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0198"
+  },
+  {
+    "item_id": "ITEM_MSG_0208",
+    "type": "task",
+    "title": "Quick update: Please submit the weekly r...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0208"
+  },
+  {
+    "item_id": "ITEM_MSG_0213",
+    "type": "task",
+    "title": "FYI: The review could be Friday afternoo...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0213"
+  },
+  {
+    "item_id": "ITEM_MSG_0215",
+    "type": "task",
+    "title": "For today: Can you review the privacy ch...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0215"
+  },
+  {
+    "item_id": "ITEM_MSG_0216",
+    "type": "event",
+    "title": "Important: The project review is schedul...",
+    "deadline": "2026-09-12",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0216"
+  },
+  {
+    "item_id": "ITEM_MSG_0217",
+    "type": "task",
+    "title": "Please note: The review could be Friday ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0217"
+  },
+  {
+    "item_id": "ITEM_MSG_0219",
+    "type": "task",
+    "title": "Quick update: Send the expense receipt i...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0219"
+  },
+  {
+    "item_id": "ITEM_MSG_0222",
+    "type": "event",
+    "title": "One more thing: Please join the internsh...",
+    "deadline": "2026-09-18",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0222"
+  },
+  {
+    "item_id": "ITEM_MSG_0228",
+    "type": "event",
+    "title": "One more thing: Just so you know, i pref...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0228"
+  },
+  {
+    "item_id": "ITEM_MSG_0231",
+    "type": "task",
+    "title": "Quick update: Can you send the revised p...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0231"
+  },
+  {
+    "item_id": "ITEM_MSG_0245",
+    "type": "task",
+    "title": "One more thing: Please complete the Pyth...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0245"
+  },
+  {
+    "item_id": "ITEM_MSG_0251",
+    "type": "event",
+    "title": "Don't forget to call the service centre;...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0251"
+  },
+  {
+    "item_id": "ITEM_MSG_0253",
+    "type": "event",
+    "title": "Can you help? The webinar recording is n...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0253"
+  },
+  {
+    "item_id": "ITEM_MSG_0258",
+    "type": "event",
+    "title": "One more thing: The client discussion is...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0258"
+  },
+  {
+    "item_id": "ITEM_MSG_0265",
+    "type": "task",
+    "title": "Hi, Don't forget to pay the electricity ...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0265"
+  },
+  {
+    "item_id": "ITEM_MSG_0269",
+    "type": "task",
+    "title": "For today: Don't forget to upload the as...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0269"
+  },
+  {
+    "item_id": "ITEM_MSG_0271",
+    "type": "task",
+    "title": "For today: Are you available for the des...",
+    "deadline": "2026-09-15",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0271"
+  },
+  {
+    "item_id": "ITEM_MSG_0280",
+    "type": "event",
+    "title": "Quick update: Share the meeting notes is...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0280"
+  },
+  {
+    "item_id": "ITEM_MSG_0283",
+    "type": "event",
+    "title": "Important: Don't forget to call the serv...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0283"
+  },
+  {
+    "item_id": "ITEM_MSG_0293",
+    "type": "task",
+    "title": "Quick update: Are you available for the ...",
+    "deadline": "2026-09-20",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0293"
+  },
+  {
+    "item_id": "ITEM_MSG_0306",
+    "type": "task",
+    "title": "Please note: I need you to review the mo...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0306"
+  },
+  {
+    "item_id": "ITEM_MSG_0307",
+    "type": "task",
+    "title": "Hi, Can you send the revised presentatio...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0307"
+  },
+  {
+    "item_id": "ITEM_MSG_0309",
+    "type": "task",
+    "title": "Can you help? Don't forget to email the ...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0309"
+  },
+  {
+    "item_id": "ITEM_MSG_0310",
+    "type": "task",
+    "title": "Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0310"
+  },
+  {
+    "item_id": "ITEM_MSG_0311",
+    "type": "event",
+    "title": "For today: Please join the study-group s...",
+    "deadline": "2026-09-18",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0311"
+  },
+  {
+    "item_id": "ITEM_MSG_0317",
+    "type": "task",
+    "title": "Can you send the revised presentation be...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0317"
+  },
+  {
+    "item_id": "ITEM_MSG_0319",
+    "type": "event",
+    "title": "Quick update: Remember that i prefer mor...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0319"
+  },
+  {
+    "item_id": "ITEM_MSG_0323",
+    "type": "task",
+    "title": "Can you help? Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0323"
+  },
+  {
+    "item_id": "ITEM_MSG_0331",
+    "type": "task",
+    "title": "Can you help? Complete the onboarding fo...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0331"
+  },
+  {
+    "item_id": "ITEM_MSG_0338",
+    "type": "event",
+    "title": "Hi, The product demo is scheduled for 20...",
+    "deadline": "2026-09-12",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0338"
+  },
+  {
+    "item_id": "ITEM_MSG_0339",
+    "type": "task",
+    "title": "Quick update: Don't forget to pay the el...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0339"
+  },
+  {
+    "item_id": "ITEM_MSG_0342",
+    "type": "event",
+    "title": "Can you help? The product demo is schedu...",
+    "deadline": "2026-09-12",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0342"
+  },
+  {
+    "item_id": "ITEM_MSG_0345",
+    "type": "task",
+    "title": "Just checking\u2014Don't forget to upload the...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0345"
+  },
+  {
+    "item_id": "ITEM_MSG_0356",
+    "type": "event",
+    "title": "FYI: The client discussion is scheduled ...",
+    "deadline": "2026-09-12",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0356"
+  },
+  {
+    "item_id": "ITEM_MSG_0357",
+    "type": "task",
+    "title": "Just checking\u2014The project review is sche...",
+    "deadline": "2026-09-17",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0357"
+  },
+  {
+    "item_id": "ITEM_MSG_0358",
+    "type": "task",
+    "title": "Send the expense receipt is due on 2026-...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0358"
+  },
+  {
+    "item_id": "ITEM_MSG_0363",
+    "type": "task",
+    "title": "Can you help? Are you available for the ...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0363"
+  },
+  {
+    "item_id": "ITEM_MSG_0368",
+    "type": "task",
+    "title": "Please note: Don't forget to email the s...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0368"
+  },
+  {
+    "item_id": "ITEM_MSG_0369",
+    "type": "task",
+    "title": "Please note: Please submit the weekly re...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0369"
+  },
+  {
+    "item_id": "ITEM_MSG_0371",
+    "type": "event",
+    "title": "Can you help? Remember that i prefer mor...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0371"
+  },
+  {
+    "item_id": "ITEM_MSG_0372",
+    "type": "event",
+    "title": "FYI: Just so you know, i prefer morning ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0372"
+  },
+  {
+    "item_id": "ITEM_MSG_0377",
+    "type": "event",
+    "title": "One more thing: If possible, review the ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0377"
+  },
+  {
+    "item_id": "ITEM_MSG_0379",
+    "type": "task",
+    "title": "One more thing: Please submit the weekly...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0379"
+  },
+  {
+    "item_id": "ITEM_MSG_0382",
+    "type": "task",
+    "title": "For today: The project review is schedul...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0382"
+  },
+  {
+    "item_id": "ITEM_MSG_0383",
+    "type": "event",
+    "title": "Just checking\u2014The webinar recording is n...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0383"
+  },
+  {
+    "item_id": "ITEM_MSG_0386",
+    "type": "task",
+    "title": "FYI: Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0386"
+  },
+  {
+    "item_id": "ITEM_MSG_0393",
+    "type": "task",
+    "title": "Quick update: Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0393"
+  },
+  {
+    "item_id": "ITEM_MSG_0394",
+    "type": "task",
+    "title": "FYI: Don't forget to email the signed do...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0394"
+  },
+  {
+    "item_id": "ITEM_MSG_0396",
+    "type": "task",
+    "title": "Hi, Please complete the Python exercise ...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0396"
+  },
+  {
+    "item_id": "ITEM_MSG_0398",
+    "type": "task",
+    "title": "FYI: Complete the onboarding form is due...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0398"
+  },
+  {
+    "item_id": "ITEM_MSG_0402",
+    "type": "event",
+    "title": "One more thing: I might prefer evening m...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0402"
+  },
+  {
+    "item_id": "ITEM_MSG_0407",
+    "type": "task",
+    "title": "Important: Can you send the revised pres...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0407"
+  },
+  {
+    "item_id": "ITEM_MSG_0408",
+    "type": "event",
+    "title": "Remember that i prefer morning meetings.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0408"
+  },
+  {
+    "item_id": "ITEM_MSG_0410",
+    "type": "event",
+    "title": "Can you help? Please call Maya when you ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0410"
+  },
+  {
+    "item_id": "ITEM_MSG_0414",
+    "type": "task",
+    "title": "One more thing: Are you available for th...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0414"
+  },
+  {
+    "item_id": "ITEM_MSG_0420",
+    "type": "task",
+    "title": "One more thing: Complete the onboarding ...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0420"
+  },
+  {
+    "item_id": "ITEM_MSG_0422",
+    "type": "task",
+    "title": "Quick update: Please complete the Python...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0422"
+  },
+  {
+    "item_id": "ITEM_MSG_0423",
+    "type": "event",
+    "title": "Quick update: The product demo is schedu...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0423"
+  },
+  {
+    "item_id": "ITEM_MSG_0425",
+    "type": "task",
+    "title": "Important: I need you to review the mode...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0425"
+  },
+  {
+    "item_id": "ITEM_MSG_0427",
+    "type": "task",
+    "title": "Please note: The project review is sched...",
+    "deadline": "2026-09-17",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0427"
+  },
+  {
+    "item_id": "ITEM_MSG_0430",
+    "type": "event",
+    "title": "FYI: Please join the internship orientat...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0430"
+  },
+  {
+    "item_id": "ITEM_MSG_0434",
+    "type": "event",
+    "title": "Please note: The webinar recording is no...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0434"
+  },
+  {
+    "item_id": "ITEM_MSG_0437",
+    "type": "event",
+    "title": "For today: Just so you know, i prefer mo...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0437"
+  },
+  {
+    "item_id": "ITEM_MSG_0438",
+    "type": "event",
+    "title": "One more thing: Please call Maya when yo...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0438"
+  },
+  {
+    "item_id": "ITEM_MSG_0449",
+    "type": "event",
+    "title": "Important: Please join the AI workshop o...",
+    "deadline": "2026-09-18",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0449"
+  },
+  {
+    "item_id": "ITEM_MSG_0456",
+    "type": "event",
+    "title": "Just checking\u2014The client discussion is s...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0456"
+  },
+  {
+    "item_id": "ITEM_MSG_0457",
+    "type": "event",
+    "title": "Can you help? If possible, review the fi...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0457"
+  },
+  {
+    "item_id": "ITEM_MSG_0460",
+    "type": "task",
+    "title": "Quick update: I will send the login deta...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0460"
+  },
+  {
+    "item_id": "ITEM_MSG_0462",
+    "type": "task",
+    "title": "Can you help? The review could be Friday...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0462"
+  },
+  {
+    "item_id": "ITEM_MSG_0467",
+    "type": "task",
+    "title": "I need you to review the model results b...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0467"
+  },
+  {
+    "item_id": "ITEM_MSG_0473",
+    "type": "task",
+    "title": "Please note: Send the expense receipt is...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0473"
+  },
+  {
+    "item_id": "ITEM_MSG_0481",
+    "type": "task",
+    "title": "Please note: Can you review the privacy ...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0481"
+  },
+  {
+    "item_id": "ITEM_MSG_0485",
+    "type": "task",
+    "title": "Hi, Send the expense receipt is due on 2...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0485"
+  },
+  {
+    "item_id": "ITEM_MSG_0486",
+    "type": "task",
+    "title": "One more thing: Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0486"
+  },
+  {
+    "item_id": "ITEM_MSG_0487",
+    "type": "task",
+    "title": "Just checking\u2014Can you review the privacy...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0487"
+  },
+  {
+    "item_id": "ITEM_MSG_0489",
+    "type": "event",
+    "title": "Please note: I might prefer evening meet...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0489"
+  },
+  {
+    "item_id": "ITEM_MSG_0492",
+    "type": "task",
+    "title": "Please note: Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0492"
+  },
+  {
+    "item_id": "ITEM_MSG_0493",
+    "type": "task",
+    "title": "Important: The review could be Friday af...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0493"
+  },
+  {
+    "item_id": "ITEM_MSG_0495",
+    "type": "event",
+    "title": "Quick update: Please call Maya when you ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0495"
+  },
+  {
+    "item_id": "ITEM_MSG_0498",
+    "type": "task",
+    "title": "Please note: Don't forget to upload the ...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0498"
+  },
+  {
+    "item_id": "ITEM_MSG_0500",
+    "type": "event",
+    "title": "Hi, Remember that i prefer morning meeti...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0500"
+  },
+  {
+    "item_id": "ITEM_MSG_0501",
+    "type": "event",
+    "title": "Important: Remember that i prefer mornin...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0501"
+  },
+  {
+    "item_id": "ITEM_MSG_0503",
+    "type": "event",
+    "title": "Can you help? Don't forget to call the s...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0503"
+  },
+  {
+    "item_id": "ITEM_MSG_0505",
+    "type": "task",
+    "title": "For today: Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0505"
+  },
+  {
+    "item_id": "ITEM_MSG_0508",
+    "type": "event",
+    "title": "FYI: Please join the study-group session...",
+    "deadline": "2026-09-18",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0508"
+  },
+  {
+    "item_id": "ITEM_MSG_0510",
+    "type": "event",
+    "title": "I might prefer evening meetings now.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0510"
+  },
+  {
+    "item_id": "ITEM_MSG_0512",
+    "type": "task",
+    "title": "Please note: Can you send the revised pr...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0512"
+  },
+  {
+    "item_id": "ITEM_MSG_0522",
+    "type": "event",
+    "title": "Please note: Just so you know, i prefer ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0522"
+  },
+  {
+    "item_id": "ITEM_MSG_0524",
+    "type": "event",
+    "title": "Just checking\u2014If possible, review the fi...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0524"
+  },
+  {
+    "item_id": "ITEM_MSG_0530",
+    "type": "task",
+    "title": "For today: Please submit the weekly repo...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0530"
+  },
+  {
+    "item_id": "ITEM_MSG_0531",
+    "type": "task",
+    "title": "One more thing: Send the expense receipt...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0531"
+  },
+  {
+    "item_id": "ITEM_MSG_0533",
+    "type": "task",
+    "title": "One more thing: I will send the login de...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0533"
+  },
+  {
+    "item_id": "ITEM_MSG_0536",
+    "type": "task",
+    "title": "Just checking\u2014Don't forget to pay the el...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0536"
+  },
+  {
+    "item_id": "ITEM_MSG_0537",
+    "type": "task",
+    "title": "Hi, I need you to review the model resul...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0537"
+  },
+  {
+    "item_id": "ITEM_MSG_0544",
+    "type": "event",
+    "title": "Just checking\u2014Just so you know, i prefer...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0544"
+  },
+  {
+    "item_id": "ITEM_MSG_0546",
+    "type": "task",
+    "title": "Hi, Complete the onboarding form is due ...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0546"
+  },
+  {
+    "item_id": "ITEM_MSG_0547",
+    "type": "task",
+    "title": "Hi, Please submit the weekly report by 2...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0547"
+  },
+  {
+    "item_id": "ITEM_MSG_0549",
+    "type": "event",
+    "title": "Just checking\u2014Please join the study-grou...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0549"
+  },
+  {
+    "item_id": "ITEM_MSG_0551",
+    "type": "task",
+    "title": "Just checking\u2014Complete the onboarding fo...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0551"
+  },
+  {
+    "item_id": "ITEM_MSG_0552",
+    "type": "task",
+    "title": "Please submit the weekly report by 2026-...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0552"
+  },
+  {
+    "item_id": "ITEM_MSG_0554",
+    "type": "task",
+    "title": "FYI: Don't forget to upload the assignme...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0554"
+  },
+  {
+    "item_id": "ITEM_MSG_0556",
+    "type": "event",
+    "title": "Hi, Share the meeting notes is due on 20...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0556"
+  },
+  {
+    "item_id": "ITEM_MSG_0559",
+    "type": "event",
+    "title": "Please note: If possible, review the fil...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0559"
+  },
+  {
+    "item_id": "ITEM_MSG_0565",
+    "type": "task",
+    "title": "Are you available for the design review ...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0565"
+  },
+  {
+    "item_id": "ITEM_MSG_0566",
+    "type": "event",
+    "title": "Just checking\u2014Share the meeting notes is...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0566"
+  },
+  {
+    "item_id": "ITEM_MSG_0569",
+    "type": "task",
+    "title": "FYI: Can you review the privacy checklis...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0569"
+  },
+  {
+    "item_id": "ITEM_MSG_0570",
+    "type": "task",
+    "title": "Hi, I will send the login details separa...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0570"
+  },
+  {
+    "item_id": "ITEM_MSG_0577",
+    "type": "task",
+    "title": "Please note: Please complete the Python ...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0577"
+  },
+  {
+    "item_id": "ITEM_MSG_0578",
+    "type": "task",
+    "title": "One more thing: Can you review the priva...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0578"
+  },
+  {
+    "item_id": "ITEM_MSG_0580",
+    "type": "event",
+    "title": "Important: If possible, review the file ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0580"
+  },
+  {
+    "item_id": "ITEM_MSG_0585",
+    "type": "task",
+    "title": "Complete the onboarding form is due on 2...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0585"
+  },
+  {
+    "item_id": "ITEM_MSG_0605",
+    "type": "task",
+    "title": "Just checking\u2014Don't forget to email the ...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0605"
+  },
+  {
+    "item_id": "ITEM_MSG_0609",
+    "type": "event",
+    "title": "FYI: The webinar recording is now availa...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0609"
+  },
+  {
+    "item_id": "ITEM_MSG_0614",
+    "type": "task",
+    "title": "Don't forget to pay the electricity bill...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0614"
+  },
+  {
+    "item_id": "ITEM_MSG_0616",
+    "type": "task",
+    "title": "FYI: Are you available for the design re...",
+    "deadline": "2026-09-15",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0616"
+  },
+  {
+    "item_id": "ITEM_MSG_0620",
+    "type": "task",
+    "title": "For today: Don't forget to pay the elect...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0620"
+  },
+  {
+    "item_id": "ITEM_MSG_0621",
+    "type": "task",
+    "title": "Can you help? Can you review the privacy...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0621"
+  },
+  {
+    "item_id": "ITEM_MSG_0624",
+    "type": "task",
+    "title": "Please note: Complete the onboarding for...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0624"
+  },
+  {
+    "item_id": "ITEM_MSG_0628",
+    "type": "event",
+    "title": "Can you help? Please join the AI worksho...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0628"
+  },
+  {
+    "item_id": "ITEM_MSG_0629",
+    "type": "event",
+    "title": "Can you help? I might prefer evening mee...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0629"
+  },
+  {
+    "item_id": "ITEM_MSG_0633",
+    "type": "task",
+    "title": "One more thing: Don't forget to upload t...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0633"
+  },
+  {
+    "item_id": "ITEM_MSG_0634",
+    "type": "event",
+    "title": "Important: Please call Maya when you are...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0634"
+  },
+  {
+    "item_id": "ITEM_MSG_0635",
+    "type": "task",
+    "title": "Hi, The review could be Friday afternoon...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0635"
+  },
+  {
+    "item_id": "ITEM_MSG_0639",
+    "type": "task",
+    "title": "Can you help? Please submit the weekly r...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0639"
+  },
+  {
+    "item_id": "ITEM_MSG_0640",
+    "type": "task",
+    "title": "Can you help? Don't forget to upload the...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0640"
+  },
+  {
+    "item_id": "ITEM_MSG_0652",
+    "type": "event",
+    "title": "One more thing: Share the meeting notes ...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0652"
+  },
+  {
+    "item_id": "ITEM_MSG_0653",
+    "type": "task",
+    "title": "Hi, Can you review the privacy checklist...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0653"
+  },
+  {
+    "item_id": "ITEM_MSG_0654",
+    "type": "task",
+    "title": "Important: Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0654"
+  },
+  {
+    "item_id": "ITEM_MSG_0662",
+    "type": "task",
+    "title": "One more thing: Can you send the revised...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0662"
+  },
+  {
+    "item_id": "ITEM_MSG_0667",
+    "type": "task",
+    "title": "Important: Don't forget to pay the elect...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0667"
+  },
+  {
+    "item_id": "ITEM_MSG_0669",
+    "type": "event",
+    "title": "Quick update: The webinar recording is n...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0669"
+  },
+  {
+    "item_id": "ITEM_MSG_0670",
+    "type": "task",
+    "title": "Quick update: Don't forget to upload the...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0670"
+  },
+  {
+    "item_id": "ITEM_MSG_0674",
+    "type": "event",
+    "title": "Quick update: The project review is sche...",
+    "deadline": "2026-09-12",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0674"
+  },
+  {
+    "item_id": "ITEM_MSG_0675",
+    "type": "event",
+    "title": "For today: The webinar recording is now ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0675"
+  },
+  {
+    "item_id": "ITEM_MSG_0683",
+    "type": "event",
+    "title": "For today: Please join the internship or...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0683"
+  },
+  {
+    "item_id": "ITEM_MSG_0685",
+    "type": "event",
+    "title": "For today: I might prefer evening meetin...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0685"
+  },
+  {
+    "item_id": "ITEM_MSG_0688",
+    "type": "task",
+    "title": "Don't forget to upload the assignment; d...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0688"
+  },
+  {
+    "item_id": "ITEM_MSG_0692",
+    "type": "task",
+    "title": "Important: I will send the login details...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0692"
+  },
+  {
+    "item_id": "ITEM_MSG_0693",
+    "type": "event",
+    "title": "Hi, The project review is scheduled for ...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0693"
+  },
+  {
+    "item_id": "ITEM_MSG_0694",
+    "type": "task",
+    "title": "Important: Please complete the Python ex...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0694"
+  },
+  {
+    "item_id": "ITEM_MSG_0707",
+    "type": "event",
+    "title": "Important: The product demo is scheduled...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0707"
+  },
+  {
+    "item_id": "ITEM_MSG_0713",
+    "type": "event",
+    "title": "Quick update: I might prefer evening mee...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0713"
+  },
+  {
+    "item_id": "ITEM_MSG_0716",
+    "type": "event",
+    "title": "Can you help? Share the meeting notes is...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0716"
+  },
+  {
+    "item_id": "ITEM_MSG_0717",
+    "type": "event",
+    "title": "FYI: Please call Maya when you are free.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0717"
+  },
+  {
+    "item_id": "ITEM_MSG_0720",
+    "type": "event",
+    "title": "Share the meeting notes is due on 2026-0...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0720"
+  },
+  {
+    "item_id": "ITEM_MSG_0722",
+    "type": "task",
+    "title": "Just checking\u2014Send the expense receipt i...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0722"
+  },
+  {
+    "item_id": "ITEM_MSG_0725",
+    "type": "task",
+    "title": "For today: Can you send the revised pres...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0725"
+  },
+  {
+    "item_id": "ITEM_MSG_0730",
+    "type": "task",
+    "title": "Just checking\u2014Please submit the weekly r...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0730"
+  },
+  {
+    "item_id": "ITEM_MSG_0738",
+    "type": "task",
+    "title": "Just checking\u2014I will send the login deta...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0738"
+  },
+  {
+    "item_id": "ITEM_MSG_0743",
+    "type": "task",
+    "title": "One more thing: Don't forget to pay the ...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0743"
+  },
+  {
+    "item_id": "ITEM_MSG_0747",
+    "type": "event",
+    "title": "Quick update: Please join the AI worksho...",
+    "deadline": "2026-09-18",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0747"
+  },
+  {
+    "item_id": "ITEM_MSG_0754",
+    "type": "task",
+    "title": "Please note: Don't forget to pay the ele...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0754"
+  },
+  {
+    "item_id": "ITEM_MSG_0757",
+    "type": "event",
+    "title": "Hi, Don't forget to call the service cen...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0757"
+  },
+  {
+    "item_id": "ITEM_MSG_0759",
+    "type": "event",
+    "title": "The product demo is scheduled for 2026-0...",
+    "deadline": "2026-09-12",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0759"
+  },
+  {
+    "item_id": "ITEM_MSG_0761",
+    "type": "task",
+    "title": "Hi, Don't forget to upload the assignmen...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0761"
+  },
+  {
+    "item_id": "ITEM_MSG_0771",
+    "type": "task",
+    "title": "I will send the login details separately...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0771"
+  },
+  {
+    "item_id": "ITEM_MSG_0773",
+    "type": "event",
+    "title": "Important: I might prefer evening meetin...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0773"
+  },
+  {
+    "item_id": "ITEM_MSG_0775",
+    "type": "task",
+    "title": "Just checking\u2014Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0775"
+  },
+  {
+    "item_id": "ITEM_MSG_0776",
+    "type": "task",
+    "title": "FYI: Send the expense receipt is due on ...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0776"
+  },
+  {
+    "item_id": "ITEM_MSG_0780",
+    "type": "task",
+    "title": "Can you help? Can you send the revised p...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0780"
+  },
+  {
+    "item_id": "ITEM_MSG_0783",
+    "type": "task",
+    "title": "Quick update: I need you to review the m...",
+    "deadline": "2026-09-09",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0783"
+  },
+  {
+    "item_id": "ITEM_MSG_0787",
+    "type": "event",
+    "title": "Important: Share the meeting notes is du...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0787"
+  },
+  {
+    "item_id": "ITEM_MSG_0792",
+    "type": "event",
+    "title": "The project review is scheduled for 2026...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0792"
+  },
+  {
+    "item_id": "ITEM_MSG_0793",
+    "type": "event",
+    "title": "Please note: Please join the study-group...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0793"
+  },
+  {
+    "item_id": "ITEM_MSG_0795",
+    "type": "event",
+    "title": "For today: Share the meeting notes is du...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0795"
+  },
+  {
+    "item_id": "ITEM_MSG_0799",
+    "type": "task",
+    "title": "Quick update: Don't forget to email the ...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0799"
+  },
+  {
+    "item_id": "ITEM_MSG_0800",
+    "type": "task",
+    "title": "Just checking\u2014Are you available for the ...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0800"
+  },
+  {
+    "item_id": "ITEM_MSG_0809",
+    "type": "task",
+    "title": "FYI: Don't forget to pay the electricity...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0809"
+  },
+  {
+    "item_id": "ITEM_MSG_0810",
+    "type": "task",
+    "title": "Hi, Are you available for the design rev...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0810"
+  },
+  {
+    "item_id": "ITEM_MSG_0811",
+    "type": "event",
+    "title": "Just checking\u2014Please call Maya when you ...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0811"
+  },
+  {
+    "item_id": "ITEM_MSG_0814",
+    "type": "task",
+    "title": "For today: Please complete the Python ex...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0814"
+  },
+  {
+    "item_id": "ITEM_MSG_0815",
+    "type": "task",
+    "title": "Important: Send the expense receipt is d...",
+    "deadline": "2026-09-04",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0815"
+  },
+  {
+    "item_id": "ITEM_MSG_0816",
+    "type": "event",
+    "title": "Quick update: If possible, review the fi...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0816"
+  },
+  {
+    "item_id": "ITEM_MSG_0819",
+    "type": "event",
+    "title": "Please note: Share the meeting notes is ...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0819"
+  },
+  {
+    "item_id": "ITEM_MSG_0824",
+    "type": "task",
+    "title": "FYI: Please submit the weekly report by ...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0824"
+  },
+  {
+    "item_id": "ITEM_MSG_0827",
+    "type": "event",
+    "title": "For today: Please call Maya when you are...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0827"
+  },
+  {
+    "item_id": "ITEM_MSG_0829",
+    "type": "task",
+    "title": "Important: Don't forget to email the sig...",
+    "deadline": "2026-09-10",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0829"
+  },
+  {
+    "item_id": "ITEM_MSG_0840",
+    "type": "task",
+    "title": "The review could be Friday afternoon.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0840"
+  },
+  {
+    "item_id": "ITEM_MSG_0843",
+    "type": "event",
+    "title": "The webinar recording is now available.",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0843"
+  },
+  {
+    "item_id": "ITEM_MSG_0849",
+    "type": "task",
+    "title": "Please note: Are you available for the d...",
+    "deadline": "2026-09-05",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0849"
+  },
+  {
+    "item_id": "ITEM_MSG_0859",
+    "type": "task",
+    "title": "Hi, Could you send it soon?",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0859"
+  },
+  {
+    "item_id": "ITEM_MSG_0862",
+    "type": "task",
+    "title": "Hi, Don't forget to email the signed doc...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0862"
+  },
+  {
+    "item_id": "ITEM_MSG_0870",
+    "type": "task",
+    "title": "For today: Send the expense receipt is d...",
+    "deadline": "2026-09-07",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0870"
+  },
+  {
+    "item_id": "ITEM_MSG_0873",
+    "type": "event",
+    "title": "One more thing: Please join the study-gr...",
+    "deadline": "2026-09-08",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0873"
+  },
+  {
+    "item_id": "ITEM_MSG_0878",
+    "type": "event",
+    "title": "Please note: The client discussion is sc...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0878"
+  },
+  {
+    "item_id": "ITEM_MSG_0879",
+    "type": "task",
+    "title": "For today: I will send the login details...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0879"
+  },
+  {
+    "item_id": "ITEM_MSG_0883",
+    "type": "task",
+    "title": "For today: I need you to review the mode...",
+    "deadline": "2026-09-02",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0883"
+  },
+  {
+    "item_id": "ITEM_MSG_0886",
+    "type": "task",
+    "title": "For today: The review could be Friday af...",
+    "deadline": null,
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0886"
+  },
+  {
+    "item_id": "ITEM_MSG_0893",
+    "type": "task",
+    "title": "Important: Can you review the privacy ch...",
+    "deadline": "2026-09-03",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0893"
+  },
+  {
+    "item_id": "ITEM_MSG_0894",
+    "type": "task",
+    "title": "Important: Are you available for the des...",
+    "deadline": "2026-09-20",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0894"
+  },
+  {
+    "item_id": "ITEM_MSG_0898",
+    "type": "task",
+    "title": "Can you help? Please complete the Python...",
+    "deadline": "2026-09-06",
+    "time": null,
+    "person": null,
+    "priority": "medium",
+    "source_message_id": "MSG_0898"
+  }
+]

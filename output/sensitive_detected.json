@@ -1,0 +1,205 @@
+[
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "One more thing: My card number is **** **** **** ****-92.",
+    "message_id": "MSG_0013"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "Use ******** *********#** to sign in to the test account.",
+    "message_id": "MSG_0086"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "Please note: Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0095"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "Can you help? Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0140"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "For today: Please note my bank account number ************-**.",
+    "message_id": "MSG_0254"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "FYI: Please note my bank account number ************-**.",
+    "message_id": "MSG_0257"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Please note: Please note my bank account number ************-**.",
+    "message_id": "MSG_0267"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "Hi, Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0344"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "Quick update: Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0346"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Can you help? Please note my bank account number ************-**.",
+    "message_id": "MSG_0352"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Hi, My card number is **** **** **** ****-42.",
+    "message_id": "MSG_0367"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "For today: Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0376"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Just checking\u2014Please note my bank account number ************-**.",
+    "message_id": "MSG_0397"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Quick update: My card number is **** **** **** ****-22.",
+    "message_id": "MSG_0419"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "FYI: Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0471"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Just checking\u2014My card number is **** **** **** ****-52.",
+    "message_id": "MSG_0610"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Important: Please note my bank account number ************-**.",
+    "message_id": "MSG_0642"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Can you help? My card number is **** **** **** ****-82.",
+    "message_id": "MSG_0649"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Important: My card number is **** **** **** ****-62.",
+    "message_id": "MSG_0681"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "For today: My card number is **** **** **** ****-32.",
+    "message_id": "MSG_0684"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "Just checking\u2014Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0727"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "Important: Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0749"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Hi, Please note my bank account number ************-**.",
+    "message_id": "MSG_0751"
+  },
+  {
+    "sensitivity_type": "password",
+    "risk": "critical",
+    "recommended_action": "do_not_store",
+    "masked_text": "One more thing: Use ******** *********#**-** to sign in to the test account.",
+    "message_id": "MSG_0777"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Please note: My card number is **** **** **** ****-12.",
+    "message_id": "MSG_0803"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "My card number is **** **** **** ****.",
+    "message_id": "MSG_0812"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "FYI: My card number is **** **** **** ****-72.",
+    "message_id": "MSG_0813"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "Quick update: Please note my bank account number ************-**.",
+    "message_id": "MSG_0848"
+  },
+  {
+    "sensitivity_type": "bank_details",
+    "risk": "critical",
+    "recommended_action": "do_not_send_external",
+    "masked_text": "One more thing: Please note my bank account number ************-**.",
+    "message_id": "MSG_0890"
+  }
+]

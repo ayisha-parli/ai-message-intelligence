@@ -1,0 +1,12 @@
+# Ignore raw datasets (Requirement rule)
+messages.csv
+mandatory_demo_ids.csv
+
+# Ignore virtual environment and Python cache
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignore Streamlit configuration settings
+.streamlit/

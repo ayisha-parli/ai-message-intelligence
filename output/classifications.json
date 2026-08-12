@@ -1,0 +1,5402 @@
+[
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0001"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0002"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0003"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0004"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0005"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0006"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0007"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0008"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0009"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0010"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0011"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0012"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0013"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0014"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0015"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0016"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0017"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0018"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0019"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0020"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0021"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0022"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0023"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0024"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0025"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0026"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0027"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0028"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0029"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0030"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0031"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0032"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0033"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0034"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0035"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0036"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0037"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0038"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0039"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0040"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0041"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0042"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0043"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0044"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0045"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0046"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0047"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0048"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0049"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0050"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0051"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0052"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0053"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0054"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0055"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0056"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0057"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0058"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0059"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0060"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0061"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0062"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0063"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0064"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0065"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0066"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0067"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0068"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0069"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0070"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0071"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0072"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0073"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0074"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0075"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0076"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0077"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0078"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0079"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0080"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0081"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0082"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0083"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0084"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0085"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0086"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0087"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0088"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0089"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0090"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0091"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0092"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0093"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0094"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0095"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0096"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0097"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0098"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0099"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0100"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0101"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0102"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0103"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0104"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0105"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0106"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0107"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0108"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0109"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0110"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0111"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0112"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0113"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0114"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0115"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0116"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0117"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0118"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0119"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0120"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0121"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0122"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0123"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0124"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0125"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0126"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0127"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0128"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0129"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0130"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0131"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0132"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0133"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0134"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0135"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0136"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0137"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0138"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0139"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0140"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0141"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0142"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0143"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0144"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0145"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0146"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0147"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0148"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0149"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0150"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0151"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0152"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0153"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0154"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0155"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0156"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0157"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0158"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0159"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0160"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0161"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0162"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0163"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0164"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0165"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0166"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0167"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0168"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0169"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0170"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0171"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0172"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0173"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0174"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0175"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0176"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0177"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0178"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0179"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0180"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0181"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0182"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0183"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0184"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0185"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0186"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0187"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0188"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0189"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0190"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0191"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0192"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0193"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0194"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0195"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0196"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0197"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0198"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0199"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0200"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0201"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0202"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0203"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0204"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0205"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0206"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0207"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0208"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0209"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0210"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0211"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0212"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0213"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0214"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0215"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0216"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0217"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0218"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0219"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0220"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0221"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0222"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0223"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0224"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0225"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0226"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0227"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0228"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0229"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0230"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0231"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0232"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0233"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0234"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0235"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0236"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0237"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0238"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0239"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0240"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0241"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0242"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0243"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0244"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0245"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0246"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0247"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0248"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0249"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0250"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0251"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0252"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0253"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0254"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0255"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0256"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0257"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0258"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0259"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0260"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0261"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0262"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0263"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0264"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0265"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0266"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0267"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0268"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0269"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0270"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0271"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0272"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0273"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0274"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0275"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0276"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0277"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0278"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0279"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0280"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0281"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0282"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0283"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0284"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0285"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0286"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0287"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0288"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0289"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0290"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0291"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0292"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0293"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0294"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0295"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0296"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0297"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0298"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0299"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0300"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0301"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0302"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0303"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0304"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0305"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0306"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0307"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0308"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0309"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0310"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0311"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0312"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0313"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0314"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0315"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0316"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0317"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0318"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0319"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0320"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0321"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0322"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0323"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0324"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0325"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0326"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0327"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0328"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0329"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0330"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0331"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0332"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0333"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0334"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0335"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0336"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0337"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0338"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0339"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0340"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0341"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0342"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0343"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0344"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0345"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0346"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0347"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0348"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0349"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0350"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0351"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0352"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0353"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0354"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0355"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0356"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0357"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0358"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0359"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0360"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0361"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0362"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0363"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0364"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0365"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0366"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0367"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0368"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0369"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0370"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0371"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0372"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0373"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0374"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0375"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0376"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0377"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0378"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0379"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0380"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0381"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0382"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0383"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0384"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0385"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0386"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0387"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0388"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0389"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0390"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0391"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0392"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0393"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0394"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0395"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0396"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0397"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0398"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0399"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0400"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0401"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0402"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0403"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0404"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0405"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0406"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0407"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0408"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0409"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0410"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0411"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0412"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0413"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0414"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0415"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0416"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0417"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0418"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0419"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0420"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0421"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0422"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0423"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0424"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0425"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0426"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0427"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0428"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0429"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0430"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0431"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0432"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0433"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0434"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0435"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0436"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0437"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0438"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0439"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0440"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0441"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0442"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0443"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0444"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0445"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0446"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0447"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0448"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0449"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0450"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0451"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0452"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0453"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0454"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0455"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0456"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0457"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0458"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0459"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0460"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0461"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0462"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0463"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0464"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0465"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0466"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0467"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0468"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0469"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0470"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0471"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0472"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0473"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0474"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0475"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0476"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0477"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0478"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0479"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0480"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0481"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0482"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0483"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0484"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0485"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0486"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0487"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0488"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0489"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0490"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0491"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0492"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0493"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0494"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0495"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0496"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0497"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0498"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0499"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0500"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0501"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0502"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0503"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0504"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0505"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0506"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0507"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0508"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0509"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0510"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0511"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0512"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0513"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0514"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0515"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0516"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0517"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0518"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0519"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0520"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0521"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0522"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0523"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0524"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0525"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0526"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0527"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0528"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0529"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0530"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0531"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0532"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0533"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0534"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0535"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0536"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0537"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0538"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0539"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0540"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0541"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0542"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0543"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0544"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0545"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0546"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0547"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0548"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0549"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0550"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0551"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0552"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0553"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0554"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0555"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0556"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0557"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0558"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0559"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0560"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0561"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0562"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0563"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0564"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0565"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0566"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0567"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0568"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0569"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0570"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0571"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0572"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0573"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0574"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0575"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0576"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0577"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0578"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0579"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0580"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0581"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0582"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0583"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0584"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0585"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0586"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0587"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0588"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0589"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0590"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0591"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0592"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0593"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0594"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0595"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0596"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0597"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0598"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0599"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0600"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0601"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0602"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0603"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0604"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0605"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0606"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0607"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0608"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0609"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0610"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0611"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0612"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0613"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0614"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0615"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0616"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0617"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0618"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0619"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0620"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0621"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0622"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0623"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0624"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0625"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0626"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0627"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0628"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0629"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0630"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0631"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0632"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0633"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0634"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0635"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0636"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0637"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0638"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0639"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0640"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0641"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0642"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0643"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0644"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0645"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0646"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0647"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0648"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0649"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0650"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0651"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0652"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0653"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0654"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0655"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0656"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0657"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0658"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0659"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0660"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0661"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0662"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0663"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0664"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0665"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0666"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0667"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0668"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0669"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0670"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0671"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0672"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0673"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0674"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0675"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0676"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0677"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0678"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0679"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0680"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0681"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0682"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0683"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0684"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0685"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0686"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0687"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0688"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0689"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0690"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0691"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0692"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0693"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0694"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0695"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0696"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0697"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0698"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0699"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0700"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0701"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0702"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0703"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0704"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0705"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0706"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0707"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0708"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0709"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0710"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0711"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0712"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0713"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0714"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0715"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0716"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0717"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0718"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0719"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0720"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0721"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0722"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0723"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0724"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0725"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0726"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0727"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0728"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0729"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0730"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0731"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0732"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0733"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0734"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0735"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0736"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0737"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0738"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0739"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0740"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0741"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0742"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0743"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0744"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0745"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0746"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0747"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0748"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0749"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0750"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0751"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0752"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0753"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0754"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0755"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0756"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0757"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0758"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0759"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0760"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0761"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0762"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0763"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0764"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0765"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0766"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0767"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0768"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0769"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0770"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0771"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0772"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0773"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0774"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0775"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0776"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0777"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0778"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0779"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0780"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0781"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0782"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0783"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0784"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0785"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0786"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0787"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0788"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0789"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0790"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0791"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0792"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0793"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0794"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0795"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0796"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0797"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0798"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0799"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0800"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0801"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0802"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0803"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0804"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0805"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0806"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0807"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0808"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0809"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0810"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0811"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0812"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0813"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0814"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0815"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0816"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0817"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0818"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0819"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0820"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0821"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0822"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0823"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0824"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0825"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0826"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0827"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0828"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0829"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0830"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0831"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0832"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0833"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0834"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0835"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0836"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0837"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0838"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0839"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0840"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0841"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0842"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0843"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0844"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0845"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0846"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0847"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0848"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0849"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0850"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0851"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0852"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0853"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0854"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0855"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0856"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0857"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0858"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0859"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0860"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0861"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0862"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0863"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0864"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0865"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0866"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0867"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0868"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0869"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0870"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0871"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0872"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0873"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0874"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0875"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0876"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0877"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0878"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0879"
+  },
+  {
+    "category": "sensitive_information",
+    "confidence": 0.95,
+    "reason": "Contains authentication credential keywords or secret values.",
+    "message_id": "MSG_0880"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0881"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0882"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0883"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0884"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0885"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0886"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0887"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0888"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0889"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0890"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0891"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0892"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0893"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0894"
+  },
+  {
+    "category": "meeting_or_event",
+    "confidence": 0.92,
+    "reason": "Contains event scheduling or meeting invitation keywords.",
+    "message_id": "MSG_0895"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0896"
+  },
+  {
+    "category": "promotional",
+    "confidence": 0.9,
+    "reason": "Contains marketing, discount, or promotional triggers.",
+    "message_id": "MSG_0897"
+  },
+  {
+    "category": "action_required",
+    "confidence": 0.88,
+    "reason": "Contains explicit action requests or deadlines.",
+    "message_id": "MSG_0898"
+  },
+  {
+    "category": "personal_information",
+    "confidence": 0.85,
+    "reason": "Refers to personal contact or user details.",
+    "message_id": "MSG_0899"
+  },
+  {
+    "category": "general_information",
+    "confidence": 0.8,
+    "reason": "Informational content with no explicit action triggers.",
+    "message_id": "MSG_0900"
+  }
+]
