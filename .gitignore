@@ -10,3 +10,6 @@ __pycache__/
 
 # Ignore Streamlit configuration settings
 .streamlit/
+# Local datasets - never commit
+data/*.csv
+.idea/
